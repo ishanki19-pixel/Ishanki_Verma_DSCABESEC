@@ -1,0 +1,41 @@
+.navbar-brand
+{
+  color: #184D47;
+  font-family: 'Cinzel', serif;
+}
+.carousel-item{
+font-family: 'Satisfy', cursive;
+}
+
+.embed-responsive-item
+{
+      height:564px;
+      width:1000px;
+}
+.img{
+  width:386px;
+  height: 123.52px;
+}
+.f1
+{
+    font-family: 'Cinzel', serif;
+}
+.first
+{
+  background-color: #184D47;
+  height:564px;
+font-family: 'Great Vibes', cursive;
+  font-size: 50px;
+  color: white;
+  text-align:justify;
+}
+.last{
+  font-family: 'Cinzel', serif;
+}
+.imgg{
+  width:100px;
+  height:50px;
+}
+.contact{
+  font-family: 'Cinzel', serif;
+}
